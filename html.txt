@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Edii - Chemical Engineer</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+  <h1>Edii</h1>
+  <p>Chemical Engineer | R&D | Molecular Simulation</p>
+
+  <h2>About Me</h2>
+  <p>
+  I am a chemical engineer focused on process optimization, molecular simulation,
+  and sustainable engineering solutions.
+  </p>
+
+  <h2>Projects</h2>
+
+  <h3>Phthalic Anhydride Production</h3>
+  <p>
+  Optimized production process using simulation tools and analyzed efficiency improvements.
+  </p>
+
+  <h3>Molecular Simulation of Rifampicin</h3>
+  <p>
+  Modeled molecular interactions using OPLS force field in Schrödinger to evaluate permeability behavior.
+  </p>
+
+  <h2>Contact</h2>
+  <p>Email: yourmail@email.com</p>
+
+</body>
+</html>
